@@ -1,3 +1,1 @@
-import fs = require("fs");
-
-fs.readbd
+import readlinegggigit gitgit
