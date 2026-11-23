@@ -1,3 +1,3 @@
 import fs = require("fs");
 
-fs.read
+fs.readbd
