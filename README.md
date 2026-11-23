@@ -1,4 +1,4 @@
-# Sistem Manajemen Parkir Kampus
+# SISTEM PENGELOLAAN DAN KASIR TOKO PAKAIAN
 Kelompok 4 — Kelas T1E  
 Program Studi Teknologi Informasi, Fakultas Vokasi, Universitas Brawijaya (2026)
 
