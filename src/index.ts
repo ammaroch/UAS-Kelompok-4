@@ -1,3 +1,3 @@
 import fs = require("fs");
-
-fs.readbd
+const data = fs.readFileSync("data.txt", "utf8");
+console.log(data); var a = 10;satisfies
